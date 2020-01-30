@@ -8,4 +8,4 @@
 - Provide auth flow
 
 ## Inspiration
-- https://nova.laravel.com/
+- https://nova.laravel.com/ except the price :-)
