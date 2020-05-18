@@ -9,3 +9,7 @@
 
 ## Inspiration
 - https://nova.laravel.com/ except the price :-)
+
+## Techniques (?)
+http://www.hygen.io/
+https://graphql-code-generator.com/
